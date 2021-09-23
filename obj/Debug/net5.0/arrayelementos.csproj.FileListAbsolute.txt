@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\bin\Debug\net5.0\arrayelementos.exe
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\bin\Debug\net5.0\arrayelementos.deps.json
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\bin\Debug\net5.0\arrayelementos.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\bin\Debug\net5.0\arrayelementos.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\bin\Debug\net5.0\arrayelementos.dll
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\bin\Debug\net5.0\ref\arrayelementos.dll
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\bin\Debug\net5.0\arrayelementos.pdb
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.dll
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\ref\arrayelementos.dll
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.pdb
+C:\projetos\ams\1ano\semestre2\estruturarepeticao\arrayelementos\obj\Debug\net5.0\arrayelementos.genruntimeconfig.cache
